@@ -2,6 +2,7 @@ import { defineConfig } from 'umi';
 
 export default defineConfig({
   title:"Tangerine",
+  favicon: '/favicon.png',
   nodeModulesTransform: {
     type: 'none',
   },
